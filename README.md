@@ -1,4 +1,6 @@
 # Blog-API!
+A Blog API build using  Django REST Framework Has
+users, permissions, and allow for full CRUD (Create-Read-Update-Delete) functionality.
 
 ![1](https://user-images.githubusercontent.com/67208794/179403591-05bd226c-1cd4-4dc9-85c9-2c286e78c48b.png)
 ![2](https://user-images.githubusercontent.com/67208794/179403592-ac8e3910-eea8-4d8f-b643-5c94c6a1a125.png)
